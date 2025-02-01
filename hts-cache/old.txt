@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+07:01:54	483/483	---M--	200	added ('OK')	text/plain	etag:W/%221e3-Zvhxyb0e/s0tfh8v+u1GjxNb5Ww%22	https://mikaelaelexeii.wixsite.com/robots.txt		(from )
+07:01:55	2485/2485	---MCZ	404	error ('Not%20Found')	text/html	date:Sat,%2001%20Feb%202025%2000:01:54%20GMT	https://mikaelaelexeii.wixsite.com/	C:/My%20Web%20Sites/insideoutside/mikaelaelexeii.wixsite.com/index.html	(from )
